@@ -1,4 +1,16 @@
-## Hi there 👋
+#Bienvenidos
+## *Me llamo Óscar*
+### Estudio en grado superior de **desarrollo de aplicaciones mulriplataforma**
+---
+Me gustan:
+-Los videojuegos
+  - Kingdom Hearts
+  - Pokémon
+  - Persona 5
+-Los streaming
+-El futbol
+
+
 
 <!--
 **politoadnu-nob/politoadnu-nob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
