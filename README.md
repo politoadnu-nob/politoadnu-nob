@@ -1,6 +1,6 @@
 #Bienvenidos
 ## *Me llamo Óscar*
-### Estudio en grado superior de **desarrollo de aplicaciones mulriplataforma**
+### Estudio el grado superior de **desarrollo de aplicaciones mulriplataforma**
 ---
 Me gustan:
 -Los videojuegos
