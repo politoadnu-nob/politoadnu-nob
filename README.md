@@ -1,7 +1,8 @@
 # Bienvenidos
 ## *Me llamo Óscar*
 ###
-Estudio el grado superior de **Desarrollo de aplicaciones multiplataforma* en el **IES Alonso de Ercilla* <img src=https://pbs.twimg.com/profile_images/471257498830139392/Raio_48T_400x400.jpeg>**
+Estudio el grado superior de **Desarrollo de aplicaciones multiplataforma* en el **IES Alonso de Ercilla*
+<img src=https://pbs.twimg.com/profile_images/471257498830139392/Raio_48T_400x400.jpeg>**
 ---
 Me gustan:
 
