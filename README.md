@@ -1,15 +1,21 @@
-#Bienvenidos
+# Bienvenidos
 ## *Me llamo Óscar*
-### Estudio el grado superior de **desarrollo de aplicaciones mulriplataforma**
+###
+Estudio el grado superior de **Desarrollo de aplicaciones multiplataforma* en el **IES Alonso de Ercilla* <img src=https://pbs.twimg.com/profile_images/471257498830139392/Raio_48T_400x400.jpeg>**
 ---
 Me gustan:
--Los videojuegos
+
+-El futbol
+
+-Los videojuegos:
   - Kingdom Hearts
   - Pokémon
   - Persona 5
--Los streaming
--El futbol
+  - Inazuma Eleven
 
+
+
+<!--![Logo Ercilla](imagen/Raio_48T_400x400.jpeg)-->
 
 
 <!--
